@@ -15,4 +15,8 @@ export class NavBarComponent implements OnInit {
   onHome() {
     this.router.navigate([routeMap.HOME]);
   }
+
+  onTest() {
+    this.router.navigate([routeMap.TEST]);
+  }
 }

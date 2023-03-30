@@ -8,6 +8,7 @@ export const environment = {
 
 export const routeMap = {
   HOME: '',
+  TEST: 'test',
 };
 
 /*
